@@ -7,7 +7,9 @@
 - 리콜 전화 — 오늘 전화할 분과 첫마디, 통화 결과는 덴트웹 차트에 저절로 기록
 - 부재중 전화 · 지각 환자 · 수술 전·후 콜 · 예약 빈자리 알림
 
-🔗 홈페이지: https://4prism.github.io/
-🔗 치과 자동화 · 치과 데스크 자동화: https://4prism.github.io/dental-automation.html
-🔗 치과 AI, 데스크에서는 어디에 쓰나: https://4prism.github.io/dental-ai.html
-🔗 치과 데스크 운영 꿀팁: https://4prism.github.io/desk-tips/
+**바로 가기**
+
+- 홈페이지: https://4prism.github.io/
+- 치과 자동화 · 치과 데스크 자동화: https://4prism.github.io/dental-automation.html
+- 치과 AI, 데스크에서는 어디에 쓰나: https://4prism.github.io/dental-ai.html
+- 치과 데스크 운영 꿀팁: https://4prism.github.io/desk-tips/
